@@ -14,7 +14,7 @@ const AvailableCards  = ({
 
   return (
     <>
-      <section className="w-full md:w-[1300px] mx-auto">
+      <section className="w-full md:w-[1300px] mx-auto bg-[#f5f5f5]">
         <h1 className="p-1 ml-4 -mb-0  md:-mb-5 font-bold text-2xl text-[#34485a]">
           Customer Tickets
         </h1>
