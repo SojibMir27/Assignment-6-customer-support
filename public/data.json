@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "description": "User cannot log in with correct credentials.",
+    "customer": "Alice Johnson",
+    "priority": "high",
+    "status": "open"
+  },
+  {
+    "id": 2,
+    "title": "Payment failure",
+    "description": "Credit card payment not going through.",
+    "customer": "Bob Smith",
+    "priority": "high",
+    "status": "open"
+  },
+  {
+    "id": 3,
+    "title": "UI bug on dashboard",
+    "description": "Dashboard widgets overlap on smaller screens.",
+    "customer": "Carla Green",
+    "priority": "medium",
+    "status": "open"
+  },
+  {
+    "id": 4,
+    "title": "Email notifications not received",
+    "description": "Customer not getting order confirmation emails.",
+    "customer": "David Lee",
+    "priority": "medium",
+    "status": "open"
+  },
+  {
+    "id": 5,
+    "title": "Slow website performance",
+    "description": "Pages take too long to load during peak hours.",
+    "customer": "Ella Brown",
+    "priority": "high",
+    "status": "open"
+  },
+  {
+    "id": 6,
+    "title": "Broken link in footer",
+    "description": "Support link in footer leads to 404 page.",
+    "customer": "Frank Wilson",
+    "priority": "low",
+    "status": "open"
+  },
+  {
+    "id": 7,
+    "title": "Mobile app crash",
+    "description": "App crashes when opening settings on Android.",
+    "customer": "Grace Taylor",
+    "priority": "high",
+    "status": "open"
+  },
+  {
+    "id": 8,
+    "title": "Feature request: Dark mode",
+    "description": "Customer requests a dark mode option.",
+    "customer": "Henry Miller",
+    "priority": "low",
+    "status": "open"
+  },
+  {
+    "id": 9,
+    "title": "Incorrect order total",
+    "description": "Cart total does not include discounts properly.",
+    "customer": "Isla Davis",
+    "priority": "high",
+    "status": "open"
+  },
+  {
+    "id": 10,
+    "title": "Missing product images",
+    "description": "Some items show broken image icons.",
+    "customer": "Jack White",
+    "priority": "medium",
+    "status": "open"
+  },
+  {
+    "id": 11,
+    "title": "Refund not processed",
+    "description": "Refund request still pending after 10 days.",
+    "customer": "Karen Martinez",
+    "priority": "high",
+    "status": "open"
+  },
+  {
+    "id": 12,
+    "title": "Account locked",
+    "description": "Customer locked out after multiple failed logins.",
+    "customer": "Liam Thomas",
+    "priority": "medium",
+    "status": "open"
+  },
+  {
+    "id": 13,
+    "title": "Search not working",
+    "description": "Search returns no results even for existing products.",
+    "customer": "Mia Scott",
+    "priority": "high",
+    "status": "open"
+  },
+  {
+    "id": 14,
+    "title": "Profile picture upload issue",
+    "description": "Uploading profile photo fails with error 500.",
+    "customer": "Noah Anderson",
+    "priority": "medium",
+    "status": "open"
+  }
+]
