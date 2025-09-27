@@ -77,7 +77,7 @@ const AvailableCards  = ({
                       </h3>
 
                       <button type="button" className="text-green-700 text-sm">
-                        ✅Fixed
+                        ✅Fixed.
                       </button>
                     </div>
                   ))
