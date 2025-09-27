@@ -13,8 +13,8 @@ const fetchData = async () => {
 let supportPromise = fetchData();
 
 function App() {
-  const [selectedData, setSelectedData] = useState([]); // Progtess
-  const [resolvedTask, setResolvedTask] = useState([]); // Resolved
+  const [selectedData, setSelectedData] = useState([]);
+  const [resolvedTask, setResolvedTask] = useState([]);
 
   const handleAdd = (ticket) => {
     toast("✅ In Progress");

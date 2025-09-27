@@ -59,7 +59,7 @@ const AvailableCards  = ({
             </div>
 
             {/* resolved task */}
-            <div>
+            <div className="mt-5">
               <h1 className="font-bold text-2xl  text-[#34485a]">
                 Resolved Task
               </h1>
