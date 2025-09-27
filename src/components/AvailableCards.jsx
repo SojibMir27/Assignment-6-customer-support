@@ -65,7 +65,7 @@ const AvailableCards  = ({
               </h1>
               <div>
                 {resolvedTask.length === 0 ? (
-                  <p className="text-[#627382]">No Resolved Tasks Yet..</p>
+                  <p className="text-[#627382]">No Resolved Tasks Yet.</p>
                 ) : (
                   resolvedTask.map((task, i) => (
                     <div
